@@ -5,7 +5,7 @@
 ### Alba: https://albacardona.github.io/Whack-a-mole/
 ### Christian: https://christian-ares.github.io/The-Legend-of-Ironhacker/
 ### David: https://david-luque.github.io/Proyect-Videogame/
-### Inigo: https://gitferreira.github.io/Zombies-Game-JS/
+### Iñigo: https://gitferreira.github.io/Zombies-Game-JS/
 ### Ivan: https://ivanurra.github.io/elPolitico-videogame/index.html
 ### Jesus: https://jesusrua.github.io/MISO-THE-CAT/
 ### Mark.1: https://markhacksanjuan.github.io/pokemoji/
